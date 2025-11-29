@@ -165,9 +165,9 @@ Sensor data is transmitted through a **wireless ZigBee network** to a **wired ne
 
 ### Simulation Screenshots
 
-![Wireless Network](implementation/images/TrueTime_Wireless_Network.png)  
-![Wired Network](implementation/images/TrueTime_Network.png)  
-![Interface](implementation/images/Interfaccia_Grafica.png)
+![Wireless Network](implementation/images/TrueTime Wireless Network.png)  
+![Wired Network](implementation/images/TrueTime Network.png)  
+![Interface](implementation/images/Interfaccia Grafica.png)
 
 ---
 
