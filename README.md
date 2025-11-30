@@ -171,3 +171,9 @@ Sensor data is transmitted through a **wireless ZigBee network** to a **wired ne
 - **Scalable** to different highways or vehicles.  
 - Can be enhanced with **solar panel energy management** using **Stateflow**.  
 - Requires **MATLAB R2022a** or later with **Simulink** and **TrueTime** installed.
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
